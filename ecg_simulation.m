@@ -1,13 +1,11 @@
 %% =========================================================================
-%  ELNG 222: SIGNALS AND SYSTEMS INDIVIDUAL PROJECT 1
+%  SIGNALS AND SYSTEMS INDIVIDUAL PROJECT 1
 %  PROJECT TITLE: ANALYSIS OF HUMAN ECG SIGNALS
 %  CHAPTER 9: MATLAB SIMULATION SCRIPT
 %  =========================================================================
-%  Name: [Your Name]
-%  Index Number: [Your Index Number]
-%  Programme: BSc. Electrical and Electronics Engineering
-%  Lecturer: [Lecturer's Name]
-%  Submission Date: Friday, 17th July, 2026
+%  Name: CARL-FRED KOFI BAWUAH
+%  Electrical and Electronics Engineering
+%  Date: Friday, 17th July, 2026
 %  =========================================================================
 
 clear; clc; close all;
